@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h2 align="center">ㅎㅇㅎㅇ 👋</h2>
-<p align="center">저는 rori3724에요.</p>
+<p align="center">저는 평범한 한국 학생 rori3724에요.</p>
 
-Discord nick
+### Discord nick and tag
 
 -Lora로라#3561
 
@@ -11,8 +11,12 @@ Discord nick
 ### Developing
 
 - Discord Bots
+
 -[초대링크](https://discord.com/oauth2/authorize?client_id=800193013292335145&scope=bot&permissions=1610607742)
+
 -[정보](https://koreanbots.dev/bots/800193013292335145)
+
+-[오픈소스](https://github.com/rori3724/haziel_public/blob/main/haziel.py)
 
 ### Github Status
 
