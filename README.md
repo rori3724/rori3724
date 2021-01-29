@@ -6,6 +6,10 @@
 
 -Lora로라#3561
 
+### Language
+
+- ![Language](https://img.shields.io/badge/language-python-brightgreen)
+
 
 
 ### Developing
