@@ -22,6 +22,8 @@
 
 -[오픈소스](https://github.com/rori3724/haziel_public/blob/main/haziel.py)
 
+-[오픈소스 cogs 버전](https://github.com/rori3724/haziel_cogs-version/blob/main/cogs/Owner.py)
+
 ### Github Status
 
 [![rori3724's github stats](https://github-readme-stats.vercel.app/api?username=rori3724&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/rori3724/github-readme-stats)
