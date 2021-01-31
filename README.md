@@ -22,7 +22,7 @@
 
 -[오픈소스](https://github.com/rori3724/haziel_public/blob/main/haziel.py)
 
--[오픈소스 cogs 버전](https://github.com/rori3724/haziel_cogs-version/blob/main/cogs/Owner.py)
+-[오픈소스 cogs 버전](https://github.com/rori3724/haziel_cogs-version/blob/main/cogs/Core.py)
 
 ### Github Status
 
