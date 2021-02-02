@@ -9,6 +9,7 @@
 ### developing Language
 
 - ![Language](https://img.shields.io/badge/language-python-brightgreen)
+- ![Language](https://img.shields.io/badge/language-html-brightgreen)
 
 
 
