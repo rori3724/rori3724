@@ -4,7 +4,7 @@
 
 ### Discord nick and tag
 
--Lora로라#3561
+-나na#8756
 
 ### developing Language
 
