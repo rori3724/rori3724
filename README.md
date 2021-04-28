@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2 align="center">ㅎㅇㅎㅇ 👋</h2>
-<p align="center">저는 평범한 한국 학생 rori3724에요.</p>
+<p align="center">저는 평범한 한국 학생 na3724에요.</p>
 
 ### Discord nick and tag
 
