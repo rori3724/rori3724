@@ -4,7 +4,7 @@
 
 ### Discord nick and tag
 
-[![Discord](https://discord.c99.nl/widget/theme-3/816287619235315712.png)](http://discord.com/users/816287619235315712)
+[![Discord](https://discord.c99.nl/widget/theme-1/816287619235315712.png)](http://discord.com/users/816287619235315712)
 
 ### developing Language
 
