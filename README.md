@@ -18,6 +18,7 @@
 ### Developing
 
 - Discord Bots
+- Internet SITE
 
 -[초대링크(서비스 종료함)](https://discord.com/oauth2/authorize?client_id=800193013292335145&scope=bot&permissions=1610607742)
 
