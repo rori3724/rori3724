@@ -30,8 +30,8 @@
 
 ### Github Status
 
-[![na3724's github stats](https://github-readme-stats.vercel.app/api?username=na3724&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/na3724/github-readme-stats)
+[![na3724's github stats](https://github-readme-stats.vercel.app/api?username=na3724&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/na3724/github-readme-stats)
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=na3724&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/na3724/github-readme-stats)
+[![Top Langs](github-readme-stats.vercel.app/api/top-langs?username=na3724&layout=compact&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/na3724/github-readme-stats)
