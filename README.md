@@ -27,7 +27,11 @@
 -[오픈소스](https://github.com/na3724/haziel_public/blob/main/haziel.py)
 
 -[오픈소스 cogs 버전](https://github.com/na3724/haziel_cogs-version/blob/main/cogs/Core.py)
-
+### Things that I like!❤❤
+- Japan song
+- https://www.youtube.com/watch?v=UxUe_CIYqWE
+- https://www.youtube.com/watch?v=e1xCOsgWG0M
+- 대충 10개 정도 더 있는데 뭐라 할까봐 생략 
 ### Github Status
 
 [![na3724's github stats](https://github-readme-stats.vercel.app/api?username=na3724&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/na3724/github-readme-stats)
